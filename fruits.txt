@@ -1,4 +1,6 @@
 apples
-berries
 cherries
+<<<<<<< HEAD
 blueberry
+
+
